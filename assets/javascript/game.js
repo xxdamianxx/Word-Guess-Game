@@ -33,7 +33,6 @@ function guessing() {
             addToGuesses(userInput);
             updatePage();
         }
-
     };
 }
 
